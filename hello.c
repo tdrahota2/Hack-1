@@ -1,6 +1,6 @@
 /**
  * Author: Taylor Drahota
- * Date: 2018/08/21
+ * Date: 2018/08/22
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello Taylor!!!\n");
+  printf("Taylor Drahota Civil Engineering\n");
 
   return 0;
 }
